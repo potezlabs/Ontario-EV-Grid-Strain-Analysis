@@ -1,0 +1,73 @@
+<!DOCTYPE html><!--[if lt IE 9]><html class="no-js lt-ie9" lang="en" dir="ltr"><![endif]--><!--[if gt IE 8]><!-->
+<html class="no-js" lang="en" dir="ltr">
+<!--<![endif]-->
+<head>
+<meta charset="utf-8">
+<!-- Web Experience Toolkit (WET) / Boîte à outils de l'expérience Web (BOEW)
+		wet-boew.github.io/wet-boew/License-en.html / wet-boew.github.io/wet-boew/Licence-fr.html -->
+<title>File not found | Fichier non trouv&eacute;</title>
+<meta content="width=device-width,initial-scale=1" name="viewport">
+<!-- Meta data -->
+<meta name="robots" content="noindex, nofollow, noarchive">
+<!-- Meta data-->
+<!--[if gte IE 9 | !IE ]><!-->
+<link href="/wet-boew4b/assets/favicon.ico" rel="icon" type="image/x-icon">
+<link rel="stylesheet" href="/wet-boew4b/css/wet-boew.min.css">
+<!--<![endif]-->
+<link rel="stylesheet" href="/wet-boew4b/css/theme-srv.min.css">
+<!--[if lt IE 9]>
+<link href="/wet-boew4b/assets/favicon.ico" rel="shortcut icon" />
+<link rel="stylesheet" href="/wet-boew4b/css/ie8-wet-boew.min.css" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+<script src="/wet-boew4b/js/ie8-wet-boew.min.js"></script>
+<![endif]-->
+<noscript><link rel="stylesheet" href="/wet-boew4b/css/noscript.min.css" /></noscript>
+</head>
+<body vocab="http://schema.org/" typeof="WebPage">
+<header role="banner" id="wb-bnr" class="container">
+<div class="row">
+<div class="col-sm-6">
+<object id="gcwu-sig" type="image/svg+xml" tabindex="-1" role="img" data="/wet-boew4b/assets/sig-blk-en.svg" aria-label="Government of Canada"></object>
+</div>
+<div class="col-sm-6">
+<object id="wmms" type="image/svg+xml" tabindex="-1" role="img" data="/wet-boew4b/assets/wmms-blk.svg" aria-label="Symbol of the Government of Canada"></object>
+</div>
+</div>
+</header>
+<main role="main" property="mainContentOfPage" class="container">
+<div class="row mrgn-tp-lg">
+<h1 class="wb-inv">File not found / <span lang="fr">Fichier non trouvé</span></h1>
+<section class="col-md-6">
+<h2><span class="glyphicon glyphicon-warning-sign mrgn-rght-md"></span> File not found</h2>
+<p>Sorry, the web page you requested cannot be found.</p>
+    <p>This may have happened for a number of different reasons:</p>
+    <ul>
+    	<li>The page is temporarily offline for updating</li>
+        <li>You may have typed the URL incorrectly into the address bar of your browser</li>
+        <li>The page has been moved or removed from our site</li>
+    </ul>
+<p>Return to the <a href="https://www12.statcan.gc.ca/census-recensement/index-eng.cfm">Census of Population</a> or <a href="https://www.statcan.gc.ca/en/start">Statistics Canada home page</a> or <a href="https://www.statcan.gc.ca/en/reference/refcentre/index">contact us</a></p>
+</section>
+<section class="col-md-6" lang="fr">
+<h2><span class="glyphicon glyphicon-warning-sign mrgn-rght-md"></span> Fichier introuvable</h2>
+<p>D&eacute;sol&eacute;, la page Web demand&eacute;e est introuvable.</p>
+<p>Plusieurs raisons diff&eacute;rentes peuvent en &ecirc;tre la cause :</p>
+<ul>
+	<li>La page est temporairement hors ligne en vue d'une mise &agrave; jour</li>
+    <li>Vous avez entr&eacute; incorrectement l'adresse URL dans la barre d'adresse de votre fureteur</li>
+    <li>La page a &eacute;t&eacute; d&eacute;plac&eacute;e ou retir&eacute;e de notre site</li>
+</ul>
+<p>Retournez à <a href="https://www12.statcan.gc.ca/census-recensement/index-fra.cfm">Recensement de la population</a> ou <a href="https://www.statcan.gc.ca/fr/debut">la page d'accueil de Statistique Canada</a> ou <a href="https://www.statcan.gc.ca/fr/reference/centreref/index">contactez-nous</a></p>
+</section>
+</div>
+</main>
+<!--[if gte IE 9 | !IE ]><!-->
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="/wet-boew4b/js/wet-boew.min.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script src="/wet-boew4b/js/ie8-wet-boew2.min.js"></script>
+<![endif]-->
+<script src="/wet-boew4b/js/theme.min.js"></script>
+</body>
+</html>
